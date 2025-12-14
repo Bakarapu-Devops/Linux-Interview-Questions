@@ -163,14 +163,4 @@ Restart leaking applications
 
 Add RAM or optimize application
 
-Bonus Tip for Interviews
 
-Always answer in this order:
-
-Command you’ll run
-
-What you expect
-
-Action you’ll take
-
-Prevention steps
